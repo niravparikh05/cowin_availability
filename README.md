@@ -8,4 +8,5 @@ Available at Apollo Proton COVAXIN Quantity 1					5/15/2021 17:48
 Ensure that your system sound is turned on and in full volume so that you do not miss any notification.				
 
 **This is not to be distributed for commercial use
+**Enable macro usage when prompted and save it as Microsoft Excel Macro-Enabled Template (.xltm) if prompted
 **Macros use only publicly available APIs and in adherance to T&C as given here	https://apisetu.gov.in/public/marketplace/api/cowin
